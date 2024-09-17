@@ -1,8 +1,6 @@
-# Course 1: Pemrograman Python
-Topik Pemrograman Python merupakan salah satu materi kunci untuk dapat mengerjekan proyek-proyek AI dan kemampuan mahasiswa/i akan
-terukur dari pemrograman _python_ dalam menulis _code-code_ AI-nya. Python merupakan bahasa pemrograman bersifat _opensource_ dan sangat
-populer dalam dunia pemrograman AI dan ML, karena kemudahan sintaksnya dan juga banyaknya dukungan _library_ yang tersedia. Ada beberapa topik
-bahasan yang dipelajari pada mata pelajaran _python_ ini, yaitu:
+# Course 1: Python Programming
+Python programming is a fundamental skill for developing Artificial Intelligence (AI) projects. Our proficiency in AI will be evaluated, in part, by our ability to write effective and efficient Python code. Python is a popular open-source programming language widely used in AI and ML due to its simple syntax and extensive library support. There are several topics of discussion that are studied in these course, namely:
+
 1. Variable, Basic Data Types, and Operators
 2. Containers: List, Tuple, Set, Dictionary, and Numpy Array
 3. Flow Control: Conditionals and Loops
@@ -10,5 +8,4 @@ bahasan yang dipelajari pada mata pelajaran _python_ ini, yaitu:
 5. Object-Oriented Programming
 6. File Handling: text, csv, and image file
 
-Setelah mempelajari _python_ secara detail, mahasiswa/i diharapkan mampu menulis sebuah code program yang baik sesuai dengan konsep-
-konsep dan struktur pemrograman yang baku untuk menyelesaikan proyek AI.
+Upon completion of this in-depth Python course, students should be able to write well-structured and efficient Python code that adheres to best practices. They will be equipped to tackle complex AI projects, demonstrating their ability to apply theoretical concepts to practical problem-solving.
